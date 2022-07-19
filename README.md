@@ -23,23 +23,7 @@ In your `main.js`...
 * Set the text of the `<div>` to be Hello World
 * Add a click listener on the `<div>` that makes it so that the browser displays an `alert()` with the text `Hello world`
 
-## Chart.js
-
-In the next part of this assignment, your goal is to display a chart on the webpage using an external library, Chart.js.
-
-## Challenge 1
-
-Follow the [Chart.js `getting-started` guide](https://www.chartjs.org/docs/latest/getting-started/) to do the following:
-* Add a `<div>` and `<canvas>` element to your HTML
-* Add a `<script>` tag to your HTML that imports Chart.js from a CDN
-* In your JS, define a `config`, `labels`, and `data` object
-* Finally, again in your JS write code to render a chart (Note: in the guide this is shown inside of a `<script>` tag. You can disregard this and instead put the code inside the `<script>` tag at the bottom of your JS)
-
-## Challenge 2
-
-Your final challenge is to create one additional chart on the page that is not of the same type as the one youu just added. To do this, go to the [Chart.js documentation](https://www.chartjs.org/docs/latest/) and browse the Chart Types section on the left
-
-## Stretch Goals
+## Extras
 
 Experiment with more external libraries. Here are a few of the most popular ones:
 * [Bootstrap](https://getbootstrap.com/) - gives you a nice CSS theme and layout helpers
