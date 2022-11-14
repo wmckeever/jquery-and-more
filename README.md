@@ -19,9 +19,11 @@ Begin by creating an `index.html` and a `main.js` file. Add a script tag to your
 In your `main.js`...
 
 * Start out by creating a `<div>` with JQuery
-* Add the `<div>` to the body of your document
-* Set the text of the `<div>` to be Hello World
-* Add a click listener on the `<div>` that makes it so that the browser displays an `alert()` with the text `Hello world`
+* In the HTML, add an `<input>` element in the body and give it an id
+* Add the `<div>` to the body of your document using jquery
+* Set the text of the `<div>` to be `Click Here`
+* Add a `<ul>` to the body of your document using jquery
+* Add a click listener on the `<div>` that makes in the text in the input box added earlier and add it to the `<ul>`
 
 ## Extras
 
